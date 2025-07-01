@@ -4,7 +4,7 @@
 </div>
 <h3 align="left">A passionate learner.</h3>
 
-- 👀 I’m interested in **DSA & Web Development.**
+- 👀 I’m interested in **DSA & Development.**
 
 - 🌱 I’m currently learning **DSA & CP.**
 
