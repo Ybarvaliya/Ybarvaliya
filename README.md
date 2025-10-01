@@ -1,7 +1,4 @@
 <h1 align="left">Hi 🙋‍♂️ , I’m Yuval Barvaliya.</h1>
-<div id = "counter">
-<img src="https://komarev.com/ghpvc/?username=Ybarvaliya&style=flat-square&color=blue" alt=""/>
-</div>
 
 🚀 Full Stack Developer | MERN + Next.js | PostgreSQL | TypeScript | Python  
 
