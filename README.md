@@ -5,9 +5,6 @@
 
 🚀 Full Stack Developer | MERN + Next.js | PostgreSQL | TypeScript | Python  
 
-I love turning ideas into **scalable, user-focused applications**.  
-My expertise spans from crafting sleek **frontends** with Next.js to building **robust backends** powered by Node.js/Express and PostgreSQL.  
-
 🔹 Tech Arsenal:  
 - **Frontend:** React, Next.js, TypeScript, Tailwind  
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB  
