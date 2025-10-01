@@ -2,9 +2,19 @@
 <div id = "counter">
 <img src="https://komarev.com/ghpvc/?username=Ybarvaliya&style=flat-square&color=blue" alt=""/>
 </div>
-<h3 align="left">A passionate learner.</h3>
 
-- 👀 I’m interested in **DSA & Development.**
+🚀 Full Stack Developer | MERN + Next.js | PostgreSQL | TypeScript | Python  
+
+I love turning ideas into **scalable, user-focused applications**.  
+My expertise spans from crafting sleek **frontends** with Next.js to building **robust backends** powered by Node.js/Express and PostgreSQL.  
+
+🔹 Tech Arsenal:  
+- **Frontend:** React, Next.js, TypeScript, Tailwind  
+- **Backend:** Node.js, Express, PostgreSQL, MongoDB  
+- **Extras:** Python (automation + ML basics), REST APIs, SQL  
+
+🌱 Currently exploring **cloud deployments & AI-powered SaaS**.  
+💡 Open to collaborating on impactful projects and innovative ideas.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
