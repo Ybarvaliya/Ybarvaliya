@@ -1,6 +1,6 @@
 <h1 align="left">Hi 🙋‍♂️ , I’m Yuval Barvaliya.</h1>
 <div id = "counter">
-<img src="https://komarev.com/ghpvc/?username=harshil048&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Ybarvaliya&style=flat-square&color=blue" alt=""/>
 </div>
 <h3 align="left">A passionate learner.</h3>
 
@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/BarvaliyaYUVAL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshil_048" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yuval-barvaliya-692895235/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshil-bambhroliya" height="30" width="40" /></a>
+<a href="https://twitter.com/BarvaliyaYUVAL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ybarvaliya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yuval-barvaliya-692895235/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuval-barvaliya" height="30" width="40" /></a>
 
 <p align="left"> <a href="https://twitter.com/BarvaliyaYUVAL" target="blank"><img src="https://img.shields.io/twitter/follow/BarvaliyaYUVAL?logo=twitter&style=for-the-badge" alt="imsohil4" /></a> </p>
 
